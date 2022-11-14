@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="outputText">My First name is:</string>
+    <string name="outputText1">My Second name is Egide </string>
+    <string name="button">Click</string>
+    <string name="photo">My picture</string>
+    <string name="label">Enter name</string>
+</resources>

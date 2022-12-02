@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab4Navigation</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="profile">profile</string>
+    <string name="hometext">Welcome Home Sir/Madam</string>
+    <string name="Searchtext">I am right here! Stop your search</string>
+    <string name="profiletext">This is my Profile</string>
+    <string name="toptext">Top App Bar</string>
+    <string name="Description">backIcon</string>
+
+</resources>
